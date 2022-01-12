@@ -1,0 +1,35 @@
+.buttor {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    min-height: 70px;
+    font-weight: 500;
+    color: #fff;
+    border-color: #e53935;
+    border-radius: 3px;
+    background-color: rgba(229,57,53,.7);
+    font-size: 28px;
+}
+
+.buttortwo {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    min-height: 70px;
+    font-weight: 500;
+    color: #fff;
+    border-color: #e53935;
+    border-radius: 3px;
+    background-color: rgba(229,57,53,.7);
+    font-size: 28px;
+}
+
+#resetter {
+    margin-top: 40px;
+    margin-bottom: 10px;
+    min-height: 70px;
+    font-weight: 500;
+    color: #fff;
+    border-color: #e53935;
+    border-radius: 3px;
+    background-color: rgba(229,57,53,.7);
+    font-size: 28px;
+}
